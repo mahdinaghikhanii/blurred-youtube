@@ -9,7 +9,8 @@ class HomePage extends StatelessWidget {
       backgroundColor: Colors.black.withOpacity(0.3),
       body: Center(
         child: Text(
-          "Done!",
+          "Blurred Transparent Background in\nFlutter macOS😍",
+          textAlign: TextAlign.center,
           style: TextStyle(
               fontWeight: FontWeight.bold, fontSize: 40, color: Colors.white),
         ),
